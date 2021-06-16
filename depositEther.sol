@@ -1,12 +1,7 @@
 /**
- *Submitted for verification at Etherscan.io on 2018-02-07
-*/
-
-/**
- * Derived and adjusted from Nguyen Viet Dinh
- * Provide bank deposit service
- * Many users can use the service
- * Each user can deposit many times with different amount of ETH and periods
+ * Derived and adjusted from Nguyen Viet Dinh's version
+ * Provides bank deposit service to multiple users
+ * Each user can deposit many times with different amounts of ETH and terms
  * User is only able to withdraw when period's over
  * data structure example for user A and user B
  **********************************************************
